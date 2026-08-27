@@ -1,3 +1,5 @@
+#QUESTÃO 03 - Antecessor e Sucessor
+
 numero = int(input('Digite um número inteiro: '))
 antecessor = numero - 1
 sucessor = numero + 1

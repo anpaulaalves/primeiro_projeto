@@ -1,10 +1,11 @@
+#QUESTÃO 08 - Número positivo ou negativo
+
 numero = int(input('Digite um número inteiro: '))
-print('\n')
 
 if numero>0:
-    print('O número digitado é positivo.')
+    print('\nO número digitado é positivo.')
 
 elif numero<0:
-    print('O número digitado é negativo.')
+    print('\nO número digitado é negativo.')
 else: 
-    print('O número digitado foi zero e, portanto, NEUTRO.')
+    print('\nO número digitado foi zero e, portanto, NEUTRO.')
