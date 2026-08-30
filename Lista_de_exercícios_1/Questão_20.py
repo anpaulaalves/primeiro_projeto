@@ -22,6 +22,7 @@ else:
 
 
 #QUESTÃO 20 - Desafio Final (SEGUNDA FORMA)
+#Pensei nesta forma enquanto digitava a primeira e resolvi colocar também.
 
 nome = str(input('Digite seu nome: '))
 idade = int(input('Digite sua idade: '))

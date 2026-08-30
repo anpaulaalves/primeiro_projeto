@@ -1,4 +1,6 @@
-#Pedido de número inteiro positivo para o usuário.
+#QUESTÃO 14 - Contagem regressiva
+
+#Pedido de número inteiro positivo para o usuário. O valor digitado é armazeno na variável numero.
 numero = int(input('Digite um número inteiro positivo: '))
 
 #Condição para que seja aceito apenas números inteiros positivos, caso contrário, aparecerá "número inválido".

@@ -6,7 +6,9 @@ print('\n')
 
 if numero_1>numero_2:
     print('O Primeiro número é maior.')
+
 elif numero_1<numero_2:
     print('O Segundo número é maior.')
+
 else:
     print('Os números digitados foram iguais.')

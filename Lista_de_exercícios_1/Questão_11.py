@@ -1,2 +1,4 @@
-for numero in range(11):
+#QUESTÃO 11 - Contagem
+
+for numero in range(1, 11):
     print(numero)
